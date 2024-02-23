@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @aaronlee916
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in JavaScript libraries like React.js&Nest.js
+- 🌱 I’m currently learning SpringBoot&Spring Cloud
+- 💞️ I’m looking to collaborate on remote work
+- 📫 How to reach me:📧aaronlee916@qq.com
+-                     
 
-<!---
-aaronlee916/aaronlee916 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
